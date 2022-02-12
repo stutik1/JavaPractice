@@ -1,4 +1,4 @@
-package JavaDSA.Sorting;
+package Sorting;
 
 public class BubbleSort {
     public static void printArray(int arr[] ) {
